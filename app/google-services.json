@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527895213778",
+    "project_id": "whatutalmbout-544da",
+    "storage_bucket": "whatutalmbout-544da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527895213778:android:ca5a4cc7629eb7758c9f0b",
+        "android_client_info": {
+          "package_name": "com.matthew.whatutalmbout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527895213778-2r6uomrf9e4p0pa3f5u2cp5u8iisl66g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE3gzthfTz2ZDQgMksdoZa0y0b82_yG5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527895213778-2r6uomrf9e4p0pa3f5u2cp5u8iisl66g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
